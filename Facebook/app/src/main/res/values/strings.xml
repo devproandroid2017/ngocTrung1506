@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Facebook</string>
+    <string name="TiengViet">Tieng Viet</string>
+    <string name="Thaydoi">Thay doi</string>
+    <string name="email_dienthoai">Email hoac dien thoai</string>
+    <string name="mạtkhau">Mat khau</string>
+    <string name="dangnhap">Dang nhap</string>
+    <string name="dangki">Dang ki Facebook</string>
+    <string name="quen">Quen mat khau ?</string>
+    <string name="doi">Doi trang</string>
+    <string name="title_activity_actitity_new">actitity_new</string>
+    <string name="thietlap">Thiet Lap</string>
+    <string name="tienganh">Tieng Anh</string>
+    <string name="thaydoi">Dong y</string>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Facebook</string>
+    <string name="TiengViet">EngLish</string>
+    <string name="Thaydoi">Change</string>
+    <string name="email_dienthoai">Email or Telephone</string>
+    <string name="mạtkhau">Password</string>
+    <string name="dangnhap">Sign in</string>
+    <string name="dangki">Sign up Facebook</string>
+    <string name="quen">Forget your password ?</string>
+    <string name="doi">Change activity</string>
+    <string name="thietlap">Setting</string>
+    <string name="tienganh">English</string>
+    <string name="thaydoi">Accept</string>
+
+</resources>
